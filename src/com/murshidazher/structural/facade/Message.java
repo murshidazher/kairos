@@ -1,0 +1,17 @@
+/**
+ * The <b>Message</b> class serves as ...
+ *
+ * @author Murshid Azher (https://github.com/murshidazher) <br>
+ * @version 1.0
+ * Created on 06/09/2020
+ */
+
+package com.murshidazher.structural.facade;
+
+public class Message {
+    private String content;
+
+    public Message(String content) {
+        this.content = content;
+    }
+}
