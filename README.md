@@ -10,6 +10,8 @@ A data pattern is a
 
 ### Design Patterns by Topic
 
+`B` - Beginner, `A` - Advanced
+
 * **Creational**
   * `A` [Abstract Factory](src/algorithms/math/bits) - set/get/update/clear bits, multiplication/division by two, make negative etc.
   * `B` [Builder Pattern](src/algorithms/math/factorial) 
