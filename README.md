@@ -1,7 +1,7 @@
 # Kairos
 This repository is a small library which contains Java based real-world examples of many popular design patterns mentioned in the [Gang of Four Book](https://en.wikipedia.org/wiki/Design_Patterns).
 
-* :point_up: Note that this project is meant to be used for learning and researching purposes 
+:point_up: Note that this project is meant to be used for learning and researching purposes 
 only and it is **not** meant to be used for production.*
 
 ## Design Patterns
